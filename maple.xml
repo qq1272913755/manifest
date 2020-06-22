@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/sony/maple" name="qq1272913755/android_device_sony_maple" remote="github" revision="Lineage-17.1" />
+  <project path="device/sony/yoshino-common" name="qq1272913755/android_device_sony_common" remote="github" revision="Lineage-17.1" />
+  <project path="vendor/sony" name="qq1272913755/proprietary_vendor_sony_maple" remote="github" revision="Lineage-17.1" />
+  <project path="kernel/sony/msm8998" name="qq1272913755/android_kernel_sony_msm8998" remote="github" revision="Lineage-17.1" />
+</manifest>
